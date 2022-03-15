@@ -1,4 +1,7 @@
 name: spellcheck 
+group:
+  repos: |
+    ssarmokadam/devon4ng@test_action
 on:
   push:
     paths:
